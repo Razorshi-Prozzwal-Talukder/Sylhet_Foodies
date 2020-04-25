@@ -45,8 +45,8 @@ $(document).ready(function () {
 
 	// Ripple Effect
 	$("#header, .info").ripples({
-	  dropRadius: 30,
-	  perturbance: 0.6,
+	  dropRadius: 10,
+	  perturbance: 0.5,
 	});
 
 	// Magnific Popup
